@@ -1,165 +1,165 @@
 Fonticons, Inc. (https://fontawesome.com)
 
---------------------------------------------------------------------------------
+ ------------------------------------------------  ------------------------------
 
-Font Awesome Free License
+ Font Awesome Free License
 
-Font Awesome Free is free, open source, and GPL friendly. You can use it for
-commercial projects, open source projects, or really almost whatever you want.
-Full Font Awesome Free license: https://fontawesome.com/license/free.
+ Font Awesome Free رایگان، متن باز و سازگار با GPL است.  می توانید از آن استفاده کنید
+ پروژه های تجاری، پروژه های منبع باز، یا تقریباً هر چیزی که می خواهید.
+ مجوز کامل فونت عالی عالی: https://fontawesome.com/license/free.
 
---------------------------------------------------------------------------------
+ ------------------------------------------------  ------------------------------
 
-# Icons: CC BY 4.0 License (https://creativecommons.org/licenses/by/4.0/)
+ # نمادها: مجوز CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
-The Font Awesome Free download is licensed under a Creative Commons
-Attribution 4.0 International License and applies to all icons packaged
-as SVG and JS file types.
+ دانلود رایگان Font Awesome تحت مجوز Creative Commons می باشد
+ مجوز بین المللی Attribution 4.0 و برای همه نمادهای بسته بندی شده اعمال می شود
+ به عنوان انواع فایل های SVG و JS.
 
---------------------------------------------------------------------------------
+ ------------------------------------------------  ------------------------------
 
-# Fonts: SIL OFL 1.1 License
+ # فونت: مجوز SIL OFL 1.1
 
-In the Font Awesome Free download, the SIL OFL license applies to all icons
-packaged as web and desktop font files.
+ در دانلود رایگان Font Awesome، مجوز SIL OFL برای همه نمادها اعمال می شود
+ بسته بندی شده به عنوان فایل های فونت وب و دسکتاپ.
 
-Copyright (c) 2022 Fonticons, Inc. (https://fontawesome.com)
-with Reserved Font Name: "Font Awesome".
+ حق نشر (c) 2022 Fonticons, Inc. (https://fontawesome.com)
+ با نام قلم رزرو شده: "Font Awesome".
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
+ این نرم افزار فونت تحت مجوز SIL Open Font License، نسخه 1.1 است.
+ این مجوز در زیر کپی شده است، و همچنین با یک پرسش متداول در آدرس زیر موجود است:
+ http://scripts.sil.org/OFL
 
-SIL OPEN FONT LICENSE
-Version 1.1 - 26 February 2007
+ مجوز قلم باز SIL
+ نسخه 1.1 - 26 فوریه 2007
 
-PREAMBLE
-The goals of the Open Font License (OFL) are to stimulate worldwide
-development of collaborative font projects, to support the font creation
-efforts of academic and linguistic communities, and to provide a free and
-open framework in which fonts may be shared and improved in partnership
-with others.
+ مقدمه
+ اهداف مجوز فونت باز (OFL) تحریک در سراسر جهان است
+ توسعه پروژه های فونت مشترک، برای پشتیبانی از ایجاد فونت
+ تلاش جوامع دانشگاهی و زبانی و ارائه رایگان و
+ چارچوبی باز که در آن فونت ها می توانند به اشتراک گذاشته شوند و به صورت مشارکتی بهبود یابند
+ با دیگران.
 
-The OFL allows the licensed fonts to be used, studied, modified and
-redistributed freely as long as they are not sold by themselves. The
-fonts, including any derivative works, can be bundled, embedded,
-redistributed and/or sold with any software provided that any reserved
-names are not used by derivative works. The fonts and derivatives,
-however, cannot be released under any other type of license. The
-requirement for fonts to remain under this license does not apply
-to any document created using the fonts or their derivatives.
+ OFL اجازه می دهد تا فونت های مجاز مورد استفاده، مطالعه، اصلاح و
+ تا زمانی که خودشان فروخته نشوند، آزادانه توزیع می شوند.  را
+ فونت ها، از جمله هر اثر مشتق شده، را می توان باندل، جاسازی کرد،
+ توزیع مجدد و/یا با هر نرم افزاری فروخته می شود به شرطی که هر نرم افزاری رزرو شده باشد
+ نام ها توسط آثار مشتق استفاده نمی شود.  فونت ها و مشتقات،
+ با این حال، تحت هیچ نوع مجوز دیگری نمی تواند منتشر شود.  را
+ الزام برای ماندن فونت ها تحت این مجوز اعمال نمی شود
+ به هر سندی که با استفاده از فونت ها یا مشتقات آنها ایجاد شده است.
 
-DEFINITIONS
-"Font Software" refers to the set of files released by the Copyright
-Holder(s) under this license and clearly marked as such. This may
-include source files, build scripts and documentation.
+ تعاریف
+ "نرم افزار فونت" به مجموعه فایل های منتشر شده توسط حق چاپ اطلاق می شود
+ دارنده (ها) تحت این مجوز و به وضوح به عنوان چنین علامت گذاری شده است.  این ممکن است
+ شامل فایل های منبع، اسکریپت های ساخت و مستندات است.
 
-"Reserved Font Name" refers to any names specified as such after the
-copyright statement(s).
+ "Reserved Font Name" به هر نامی که پس از آن مشخص شده است اشاره دارد
+ بیانیه(های) حق چاپ
 
-"Original Version" refers to the collection of Font Software components as
-distributed by the Copyright Holder(s).
+ "نسخه اصلی" به مجموعه اجزای نرم افزار فونت به عنوان اشاره دارد
+ توسط دارنده(های) حق نشر توزیع شده است.
 
-"Modified Version" refers to any derivative made by adding to, deleting,
-or substituting — in part or in whole — any of the components of the
-Original Version, by changing formats or by porting the Font Software to a
-new environment.
+ "نسخه اصلاح شده" به هر مشتقی گفته می شود که با افزودن، حذف،
+ یا جایگزین کردن - به طور جزئی یا کلی - هر یک از اجزای آن
+ نسخه اصلی، با تغییر فرمت ها یا با انتقال نرم افزار فونت به a
+ محیط جدید
 
-"Author" refers to any designer, engineer, programmer, technical
-writer or other person who contributed to the Font Software.
+ "نویسنده" به هر طراح، مهندس، برنامه نویس، فنی اطلاق می شود
+ نویسنده یا شخص دیگری که به نرم افزار فونت کمک کرده است.
 
-PERMISSION & CONDITIONS
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of the Font Software, to use, study, copy, merge, embed, modify,
-redistribute, and sell modified and unmodified copies of the Font
-Software, subject to the following conditions:
+ مجوز و شرایط
+ بدینوسیله به هر شخصی که این مجوز را دریافت می کند، مجوز رایگان داده می شود
+ یک کپی از نرم افزار فونت، برای استفاده، مطالعه، کپی، ادغام، جاسازی، اصلاح،
+ توزیع مجدد و فروش نسخه های اصلاح شده و اصلاح نشده فونت
+ نرم افزار، مشروط به شرایط زیر:
 
-1) Neither the Font Software nor any of its individual components,
-in Original or Modified Versions, may be sold by itself.
+ 1) نه نرم افزار فونت و نه هیچ یک از اجزای جداگانه آن،
+ در نسخه های اصلی یا اصلاح شده، ممکن است به تنهایی فروخته شود.
 
-2) Original or Modified Versions of the Font Software may be bundled,
-redistributed and/or sold with any software, provided that each copy
-contains the above copyright notice and this license. These can be
-included either as stand-alone text files, human-readable headers or
-in the appropriate machine-readable metadata fields within text or
-binary files as long as those fields can be easily viewed by the user.
+ 2) نسخه های اصلی یا اصلاح شده نرم افزار فونت ممکن است همراه باشد،
+ توزیع مجدد و/یا با هر نرم افزاری فروخته می شود، مشروط بر اینکه هر کپی
+ حاوی اعلامیه حق چاپ بالا و این مجوز است.  اینها می توانند باشند
+ شامل فایل های متنی مستقل، سرصفحه های قابل خواندن توسط انسان یا
+ در فیلدهای فراداده قابل خواندن ماشین مناسب در متن یا
+ فایل های باینری تا زمانی که آن فیلدها به راحتی توسط کاربر قابل مشاهده باشد.
 
-3) No Modified Version of the Font Software may use the Reserved Font
-Name(s) unless explicit written permission is granted by the corresponding
-Copyright Holder. This restriction only applies to the primary font name as
-presented to the users.
+ 3) هیچ نسخه اصلاح شده نرم افزار فونت نمی تواند از فونت رزرو شده استفاده کند
+ نام (ها) مگر اینکه مجوز کتبی صریح توسط مربوطه اعطا شود
+ دارنده حق چاپ  این محدودیت فقط برای نام فونت اصلی as اعمال می شود
+ به کاربران ارائه شده است.
 
-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
-Software shall not be used to promote, endorse or advertise any
-Modified Version, except to acknowledge the contribution(s) of the
-Copyright Holder(s) and the Author(s) or with their explicit written
-permission.
+ 4) نام(های) دارنده(ها) حق چاپ یا نویسنده(های) قلم
+ نرم افزار نباید برای تبلیغ، تایید یا تبلیغ استفاده شود
+ نسخه اصلاح شده، به جز برای تایید مشارکت(های)
+ دارنده (ها) حق چاپ و نویسنده (ها) یا با نوشته صریح آنها
+ اجازه.
 
-5) The Font Software, modified or unmodified, in part or in whole,
-must be distributed entirely under this license, and must not be
-distributed under any other license. The requirement for fonts to
-remain under this license does not apply to any document created
-using the Font Software.
+ 5) نرم افزار فونت، اصلاح شده یا بدون تغییر، به طور جزئی یا کامل،
+ باید به طور کامل تحت این مجوز توزیع شود و نباید توزیع شود
+ تحت هر مجوز دیگری توزیع می شود.  مورد نیاز برای فونت به
+ باقی ماندن تحت این مجوز برای هیچ سند ایجاد شده اعمال نمی شود
+ با استفاده از نرم افزار فونت
 
-TERMINATION
-This license becomes null and void if any of the above conditions are
-not met.
+ خاتمه دادن
+ در صورت وجود هر یک از شرایط فوق، این مجوز باطل می شود
+ من نه.
 
-DISCLAIMER
-THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
-OTHER DEALINGS IN THE FONT SOFTWARE.
+ سلب مسئولیت
+ نرم افزار فونت "همانطور که هست" ارائه می شود، بدون هیچ نوع ضمانت،
+ صریح یا ضمنی، شامل اما نه محدود به هر گونه ضمانت نامه
+ قابلیت خرید و فروش، مناسب بودن برای یک هدف خاص و عدم نقض
+ از حق کپی رایت، ثبت اختراع، علامت تجاری، یا سایر حقوق.  در هیچ موردی نباید
+ دارنده حق چاپ در قبال هرگونه ادعا، خسارت یا مسئولیت دیگری مسئول است،
+ شامل هر مورد کلی، خاص، غیرمستقیم، اتفاقی یا پیامدی
+ خسارات ناشی از قرارداد، ظلم یا در غیر این صورت
+ از، خارج از استفاده یا ناتوانی در استفاده از نرم افزار فونت یا از
+ سایر معاملات در نرم افزار فونت.
 
---------------------------------------------------------------------------------
+ ------------------------------------------------  ------------------------------
 
-# Code: MIT License (https://opensource.org/licenses/MIT)
+ # کد: مجوز MIT (https://opensource.org/licenses/MIT)
 
-In the Font Awesome Free download, the MIT license applies to all non-font and
-non-icon files.
+ در دانلود رایگان Font Awesome، مجوز MIT برای همه غیر فونت ها و
+ فایل های غیر آیکون
 
-Copyright 2022 Fonticons, Inc.
+ حق چاپ 2022 Fonticons, Inc.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in the
-Software without restriction, including without limitation the rights to use, copy,
-modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,
-and to permit persons to whom the Software is furnished to do so, subject to the
-following conditions:
+ بدینوسیله به هر شخصی که یک کپی از آن را دریافت می کند، مجوز رایگان داده می شود
+ این نرم افزار و فایل های مستندات مرتبط ("نرم افزار")، برای مقابله در
+ نرم افزار بدون محدودیت، از جمله بدون محدودیت حقوق استفاده، کپی،
+ اصلاح، ادغام، انتشار، توزیع، مجوز فرعی و/یا فروش نسخه های نرم افزار،
+ و به افرادی که نرم افزار در اختیار آنها قرار داده شده است اجازه انجام این کار را بدهند، مشروط به اینکه
+ شرایط زیر:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+ اعلامیه حق چاپ بالا و این اعلامیه مجوز باید در همه گنجانده شود
+ کپی یا بخش های قابل توجهی از نرم افزار.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
-INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
-HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ نرم افزار "همانطور که هست" ارائه می شود، بدون هیچ نوع ضمانت، صریح یا ضمنی،
+ شامل، اما نه محدود به ضمانت‌های تجارت، تناسب اندام برای
+ هدف خاص و عدم نقض.  در هیچ موردی نویسندگان یا حق کپی رایت ندارند
+ دارندگان در قبال هرگونه ادعا، خسارت یا سایر مسئولیت‌ها، چه در یک اقدام، مسئول هستند.
+ در مورد قرارداد، جرم یا در غیر این صورت، ناشی از، خارج از یا در ارتباط با
+ نرم افزار یا استفاده یا سایر معاملات در نرم افزار.
 
---------------------------------------------------------------------------------
+ ------------------------------------------------  ------------------------------
 
-# Attribution
+ # اسناد
 
-Attribution is required by MIT, SIL OFL, and CC BY licenses. Downloaded Font
-Awesome Free files already contain embedded comments with sufficient
-attribution, so you shouldn't need to do anything additional when using these
-files normally.
+ ذکر منبع توسط مجوزهای MIT، SIL OFL و CC BY الزامی است.  فونت دانلود شده
+ فایل‌های رایگان عالی از قبل حاوی نظرات تعبیه‌شده با کافی هستند
+ انتساب، بنابراین هنگام استفاده از آنها نیازی به انجام کار اضافی ندارید
+ فایل های معمولی
 
-We've kept attribution comments terse, so we ask that you do not actively work
-to remove them from files, especially code. They're a great way for folks to
-learn about Font Awesome.
+ ما نظرات انتساب را کوتاه نگه داشته ایم، بنابراین از شما می خواهیم که فعالانه کار نکنید
+ برای حذف آنها از فایل ها، به خصوص کد.  آنها یک راه عالی برای مردم هستند
+ درباره Font Awesome بیاموزید.
 
---------------------------------------------------------------------------------
+ ------------------------------------------------  ------------------------------
 
-# Brand Icons
+ # نمادهای برند
 
-All brand icons are trademarks of their respective owners. The use of these
-trademarks does not indicate endorsement of the trademark holder by Font
-Awesome, nor vice versa. **Please do not use brand logos for any purpose except
-to represent the company, product, or service to which they refer.**
+ همه نمادهای برند علائم تجاری صاحبان مربوطه هستند.  استفاده از اینها
+ علائم تجاری تأییدیه دارنده علامت تجاری توسط فونت را نشان نمی دهد
+ عالیه نه برعکس  **لطفاً از لوگوهای برند برای هیچ هدفی استفاده نکنید جز
+ برای نمایندگی شرکت، محصول یا خدماتی که به آن ارجاع می دهند.**
