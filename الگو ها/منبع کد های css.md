@@ -11,3 +11,4 @@
 |LINK|SUFFIX|
 |:---|:------:|
 |1. [animejs](https://animejs.com/)| <img src="/svgs/brands/a_1/internet-explorer.svg" width="16" height="16" />|
+|2. [npmjs](https://www.npmjs.com)| <img src="/svgs/brands/a_1/internet-explorer.svg" width="16" height="16" />|
