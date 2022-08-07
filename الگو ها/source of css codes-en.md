@@ -19,5 +19,5 @@
 ___
 | language | |
 |:---------|:-----------:|
-| <a herf="" >English</a>|<img src="" width="16" height="16" />|
-| <a herf="" >Persian</a>|<img src="" width="16" height="16" />|
+| <a href="https://github.com/iranset/iranset.github.io/blob/main/%D8%A7%D9%84%DA%AF%D9%88%20%D9%87%D8%A7/source%20of%20css%20codes-en.md" >English</a>|<img src="" width="16" height="16" />|
+| <a href="https://github.com/iranset/iranset.github.io/blob/main/%D8%A7%D9%84%DA%AF%D9%88%20%D9%87%D8%A7/source%20of%20css%20codes-fa.md" >Persian</a>|<img src="" width="16" height="16" />|
