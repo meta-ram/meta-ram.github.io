@@ -2,16 +2,16 @@
 # منبع کدهای css
 | پسوند | لینک |
 |:----|-----:|
-| <img src="/svgs/brands/a_1/internet-explorer.svg" width="16" height="16" />| [کمیاب آپ]()|
-| <img src="/svgs/brands/a_1/internet-explorer.svg" width="16" height="16" />|siteamoozi []()   |
-| <img src="/svgs/brands/a_1/internet-explorer.svg" width="16" height="16" />|[فری لرن]()    |
+| <img src="/svgs/brands/a_1/internet-explorer.svg" width="16" height="16" />| [کمیاب آپ](https://kamyabapp.ir/) |
+| <img src="/svgs/brands/a_1/internet-explorer.svg" width="16" height="16" />| [سایت آموزی](https://siteamoozi.com/) |
+| <img src="/svgs/brands/a_1/internet-explorer.svg" width="16" height="16" />| [فری لرن](https://free-learn.ir/) |
 # کمک به نوشتن کد
 | پسوند | لینک |
 |:----:|----:|
-|<img src="/svgs/brands/a_1/internet-explorer.svg" width="16" height="16" />|1. animejs	|
-|<img src="/svgs/brands/a_1/internet-explorer.svg" width="16" height="16" />|2. npmjs	|
-|<img src="/svgs/brands/a_1/internet-explorer.svg" width="16" height="16" />|3. shields	|
-|<img src="/svgs/brands/a_1/internet-explorer.svg" width="16" height="16" />|4. fullpage|	
+|<img src="/svgs/brands/a_1/internet-explorer.svg" width="16" height="16" />|[انیمه-animejs]()  |
+|<img src="/svgs/brands/a_1/internet-explorer.svg" width="16" height="16" />|[ان پی ام-npmjs]()  |
+|<img src="/svgs/brands/a_1/internet-explorer.svg" width="16" height="16" />|[سپرها-shields]()  |
+|<img src="/svgs/brands/a_1/internet-explorer.svg" width="16" height="16" />|[تمام صفحه-fullPage]() |	
 
 
 #
