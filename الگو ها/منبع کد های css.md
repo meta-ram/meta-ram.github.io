@@ -13,3 +13,11 @@
 |1. [animejs](https://animejs.com/)| <img src="/svgs/brands/a_1/internet-explorer.svg" width="16" height="16" />|
 |2. [npmjs](https://www.npmjs.com/)| <img src="/svgs/brands/a_1/internet-explorer.svg" width="16" height="16" />|
 |3. [shields](https://shields.io/) | <img src="/svgs/brands/a_1/internet-explorer.svg" width="16" height="16" />|
+|4. [fullpage](https://alvarotrigo.com/fullPage/)| <img src="/svgs/brands/a_1/internet-explorer.svg" width="16" height="16" />|
+
+
+___
+| language | |
+|:---------|:-----------:|
+| <a herf="" >English</a>|<img src="" width="16" height="16" />|
+| <a herf="" >Persian</a>|<img src="" width="16" height="16" />|
