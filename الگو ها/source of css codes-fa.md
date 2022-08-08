@@ -1,3 +1,7 @@
+<div align="center">
+<img  width="150" src="/svgs/png/TEXT/Persian.png" />
+</div>
+
 <!-- فارسی فقط -->
 # منبع کدهای css
 | پسوند | لینک |
