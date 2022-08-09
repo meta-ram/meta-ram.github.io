@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title></title>
+
+    <style amp-custom>
+        *,
+:after,
+:before {
+            box-sizing: border-box;
+        }
+
+        html {
+            font-size: 100%;
+        }
+
+        body {
+            /* Courtesy of Hero Patterns (http://www.heropatterns.com) */
+            background: #000 url('data:image/svg+xml, %3Csvg fill="%23dadada" fill-opacity="0.08" fill-rule="evenodd" height="48" viewBox="0 0 84 48" width="84" xmlns="http://www.w3.org/2000/svg" %3E%3Cpath d="M0 0h12v6H0V0zm28 8h12v6H28V8zm14-8h12v6H42V0zm14 0h12v6H56V0zm0 8h12v6H56V8zM42 8h12v6H42V8zm0 16h12v6H42v-6zm14-8h12v6H56v-6zm14 0h12v6H70v-6zm0-16h12v6H70V0zM28 32h12v6H28v-6zM14 16h12v6H14v-6zM0 24h12v6H0v-6zm0 8h12v6H0v-6zm14 0h12v6H14v-6zm14 8h12v6H28v-6zm-14 0h12v6H14v-6zm28 0h12v6H42v-6zm14-8h12v6H56v-6zm0-8h12v6H56v-6zm14 8h12v6H70v-6zm0 8h12v6H70v-6zM14 24h12v6H14v-6zm14-8h12v6H28v-6zM14 8h12v6H14V8zM0 8h12v6H0V8z" /%3E%3C/svg%3E');
+            color: #f5f5f5;
+            font-size: 1rem;
+            padding: 40px;
+            text-align: center;
+        }
+
+        main {
+            margin: 25vh 0;
+            height: 50vh;
+        }
+        .moka {
+            height: 100%;
+            width: 100%;
+            background: #23dada;
+
+        }
+        h1 {
+            animation: fade-down 0.3s both 0.8s;
+            font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+            font-size: 5vw;
+            font-weight: 700;
+            letter-spacing: 1px;
+            line-height: 1;
+
+        }
+
+        ul {
+            list-style: none;
+            margin: 20px auto;
+            padding-left: 0;
+        }
+
+        ul li {
+            animation: fade-up 0.4s both;
+            display: inline-block;
+            font-size: 3vw;
+            margin: 0 20px 20px 0;
+            opacity: 0;
+        }
+
+        ul li:nth-child(1) {
+            animation-delay: 1.6s;
+        }
+
+        ul li:nth-child(2) {
+            animation-delay: 1.68s;
+        }
+
+        ul li:nth-child(3) {
+            animation-delay: 1.76s;
+        }
+
+        ul li:nth-child(4) {
+            animation-delay: 1.84s;
+        }
+
+        ul li:nth-child(5) {
+            animation-delay: 1.92s;
+        }
+
+        ul li:nth-child(6) {
+            animation-delay: 2s;
+        }
+
+        ul li:nth-child(7) {
+            animation-delay: 2.08s;
+        }
+
+        ul li:nth-child(8) {
+            animation-delay: 2.16s;
+        }
+
+        ul li:nth-child(9) {
+            animation-delay: 2.24s;
+        }
+
+        ul li:nth-child(10) {
+            animation-delay: 2.32s;
+        }
+
+        ul li:nth-child(11) {
+            animation-delay: 2.4s;
+        }
+
+        ul li:nth-child(12) {
+            animation-delay: 2.48s;
+        }
+
+        ul li:last-child {
+            margin-right: 0;
+        }
+
+        .fa-github {
+            color: #fff;
+        }
+
+        .fa-twitter {
+            color: #fff;
+        }
+
+        .fa-linkedin {
+            color: #0e76a8;
+        }
+        .fa-reddit {
+            height: 29px;
+            border-radius: 50%;
+            background: #fff;
+            color: #E14600;
+        }
+
+        .fa-youtube {
+            color: #ff0000;
+        }
+
+        ul li a:hover {
+            opacity: 0.5;
+        }
+
+@media (max-width: 424px) {
+            h1 > span {
+                display: block;
+                margin: 10px 0;
+            }
+
+            ul li {
+                font-size: 5vw;
+                margin: 0 0 20px;
+                width: 20%;
+            }
+        }
+
+@keyframes fade-down {
+            0% {
+                opacity: 0;
+                transform: translateY(-64px);
+            }
+
+            100% {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+@keyframes fade-up {
+            0% {
+                opacity: 0;
+                transform: translateY(64px);
+            }
+
+            100% {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        .box-a {
+
+            box-shadow: 0px 0px 15px #0000ff;
+        }
+        .gerd50 {
+            border-radius: 25px;
+        }
+        .wz-01 {
+            padding-top: 6px;
+            padding-bottom: 0.4px;
+            background: rgb(0.0.0.0.5);
+        }
+        .margin-10-b {
+            margin: 0 auto 10vh;
+        }
+
+        .hoo {
+         /* text-align: center; */
+            background: rgb(255,255,255,0.6);
+            color: #2391CF;
+            position: relative;
+            width: 150px;
+            height: 50;
+            
+        }
+    </style>
+
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+    <div class="page">
+        <header>
+            <spam align="center" class="hoo">
+                none
+            </spam>
+        </header>
+        <main role="main">
+            <div class="pag">
+                <div class="wz-01 box-a gerd50">
+                    <h1>iranset <spam>"I'm RAMIN RODBARI"</spam><br />WEB DESIGN</h1>
+                </div>
+                <img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" />
+                <div class="margin-10-b">
+                </div>
+                <ul>
+                    <li><a href="https://github.com/iranset" rel="noopener" target="_blank" title="Explore Anurag Singh's Code on GitHub"><i class="fa fa-github"></i></a></li>
+                    <li><a href="https://www.twitter.com/iranset" rel="noopener" target="_blank" title="Follow Anurag Singh on Twitter"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="https://linkedin.com/in/iranset/" rel="noopener" target="_blank" title="View Anurag Singh's Profile on Linkedin">  <i class="fa fa-linkedin"></i></a></li>
+                    <li><a href="https://medium.com/@iranset" rel="noopener" target="_blank" title="Read Anurag Singh's publications on Medium"><i class="fa fa-medium"></i></a></li>
+                    <li><a href="https://www.reddit.com/user/iranset/" rel="noopener" target="_blank" title="View Anurag Singh's Posts on Reddit"><i class="fa fa-reddit"></i></a></li>
+                    <li><a href="https://iranset.github.io/" rel="noopener" target="_blank" title="Anurag Singh's DEV Profile"><i class="fa fa-dev-to"></i></a></li>
+                    <li><a href="https://www.youtube.com/" rel="noopener" target="_blank" title="Subscribe to Anurag Singh's Channel on YouTube"><i class="fa fa-youtube"></i></a></li>
+                </ul>
+            </main>
+        </div>
+    </div>
+</body>
+</html>
