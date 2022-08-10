@@ -1,0 +1,186 @@
+body {
+    background: #f6f6f6;
+    font-family: "Helvetica", "Arial";
+    padding-top: 100px;
+    text-align: center;
+}
+a {
+    background: #c8ccc8;
+    color: #222;
+    border-radius: 100%;
+    display: inline-block;
+    text-decoration: none;
+    position: relative;
+    width: 40px;
+    height: 28px;
+    margin: 0 2px;
+    padding-top: 12px;
+    transition: all 0.5s;
+}
+
+a.icon:before {
+    font-family: "FontAwesome", sans-serif;
+    color: #fff;
+    font-size: 20px;
+}
+a.facebook:before {
+    content: "\f09a";
+}
+a.twitter:before {
+    content: "\f099";
+}
+a.github:before {
+    content: "\f113";
+}
+a.dribble:before {
+    content: "\f17d";
+}
+a.pinterest:before {
+    content: "\f0d2";
+}
+
+a span {
+    background: #fff;
+    color: #222;
+    font-size: 14px;
+    font-weight: bold;
+    position: absolute;
+    bottom: 0;
+    left: -25px;
+    right: -25px;
+    padding: 5px 7px;
+    visibility: hidden;
+    opacity: 0;
+    transition: all 0.4s;
+}
+a span:before {
+    content: "";
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    position: absolute;
+    bottom: -5px;
+    left: 40px;
+}
+a.facebook span:before {
+    border-top: 5px solid #4183d7;
+}
+
+
+a.twitter span:before {
+    border-top: 5px solid #19b5fe;
+}
+a.github span:before {
+    border-top: 5px solid #000;
+}
+a.dribble span:before {
+    border-top: 5px solid #f62459;
+}
+a.pinterest span:before {
+    border-top: 5px solid #f22613;
+}
+a:hover span {
+    bottom: 50px;
+    visibility: visible;
+    opacity: 1;
+}
+a.facebook:hover {
+    background-color: #4183d7;
+    color: #bfbfbf;
+}
+
+
+a.facebook span {
+    background-color: #4183d7;
+    color: #fff;
+    border-radius: 1px;
+}
+a.twitter:hover {
+    background-color: #19b5fe;
+    color: #fff;
+}
+a.twitter span {
+    background-color: #19b5fe;
+    color: #fff;
+    border-radius: 1px;
+}
+a.github:hover {
+    background-color: #000;
+    color: #fff;
+}
+a.github span {
+    background-color: #000;
+    color: #fff;
+    border-radius: 1px;
+}
+
+
+a.dribble:hover {
+    background-color: #f62459;
+    color: #fff;
+}
+a.dribble span {
+    background-color: #f62459;
+    color: #fff;
+    border-radius: 1px;
+}
+a.pinterest:hover {
+    background-color: #f22613;
+    color: #fff;
+}
+a.pinterest span {
+    color: #fff;
+    background-color: #f22613;
+    border-radius: 1px;
+}
+
+.box-div {
+    /*border-box: box-shadow;*/
+    box-shadow: 0px 0px 40px;
+    border-radius: 40px;
+    padding: 50px 0 5px 0;
+
+
+    background: #fff;
+
+}
+
+.ber {
+    height: 150px;
+}
+
+a.tex:hover {
+    background-color: red;
+    color: #fff;
+}
+
+a.tex span {
+    background-color: red;
+    color: #fff;
+    border-radius: 1px;
+}
+
+
+
+
+/*---------*/
+
+
+
+
+
+
+
+.a.tex span {
+    background-color: #4183d7;
+    color: #fff;
+    border-radius: 1px;
+}
+
+a.tex span:before {
+    border-top: 5px solid red;
+}
+
+a.tex:before {
+    content: "\f02a";
+
+}
