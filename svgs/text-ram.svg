@@ -21,7 +21,7 @@
                 values='m0,25 h0 ; m0,25 h500 ; m0,25 h500 ; m0,25 h0'
                 keyTimes='0;0.4;0.7;1' />
         </path>
-        <text font-family='"comfortaa", monospace' fill='#016EEA' font-size='24'
+        <text font-family='"comfortaa", monospace' fill='#B100FF' font-size='24'
             dominant-baseline='auto'
             x='0%' text-anchor='start'>
             <textPath xlink:href='#path1'>
