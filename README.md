@@ -8,7 +8,7 @@ ___
 |:-----------:|:-------------:|:-------------:|:---------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
 |بازکردن<br />______<br /> ایجاد متن جدید|[folders](https://github.com/iranset/folders/) <br /> [folders](https://github.com/iranset/folders/new/main)|[iranset](https://github.com/iranset/iranset) <br /> [iranset](https://github.com/iranset/iranset/new/main)|[web site](https://github.com/iranset/iranset.github.io) <br /> [web site](https://github.com/iranset/iranset.github.io/new/main)| ♨️ مخازن |
 |[جدید](https://github.com/iranset/iranset.github.io/new/main/p)|[ویرایش فولدرها](https://github.com/iranset/iranset.github.io/main/p) | [ویرایش فایل اصلی](https://github.com/iranset/iranset.github.io/p.html) | [بازکردن در سایت](https://iranset.github.io/p.html)|  پست ها📄 |
-|  | [مشاهده تمام پستها]() | [NEW](wiki/new)| [List](iranset.github.io/blob/main/wiki/p/p.md)| wiki|
+|  | [مشاهده تمام پستها]() | [NEW](wiki/new)| [List](/wiki/p/p.md)| wiki|
 |[paks]() | [CSS]() | [HTML]() |  [APP]() |دسته بندی ها💠  |
 |______|______|  برگزیده‌ها |______|______|
 |[svg]()|[png]()| [star⭐]() |[bank irani](bank-irani)|[bank web](bank-web)  |
