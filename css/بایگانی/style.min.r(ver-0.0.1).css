@@ -82,6 +82,10 @@ h5 {
     margin: 0;
 }
 
+a {
+text-decoration: none;
+}
+
 /* ------------------------------ */
 .rtl {
     text-align: right;
