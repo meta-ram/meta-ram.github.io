@@ -1,3 +1,7 @@
+/* https://iranset.github.io/ */
+/* $save=( /css/style.min.r.css ) */
+/* - ver(0.0.1)*/
+/* - set-min   */
 @media only screen and (max-width: 260px) {
 
     .no-260,
@@ -69,13 +73,6 @@ footer {
     align-content: stretch;
 }
 
-/* ----------------- */
-/* table */
-/* ----------------- */
-
-
-
-
 h1,
 h2,
 h3,
@@ -95,11 +92,6 @@ h5 {
 }
 
 .center {
-    /*
-    justify-items: center;
-    position: unset;
-    display: grid; 
-    */
     display: grid;
     justify-items: center;
     align-items: start;
@@ -130,9 +122,16 @@ h5 {
 .texet-box-1 {
     margin: 20px;
 }
-.farsi{
-text-align: right;
- }
+
+.farsi {
+    text-align: -webkit-right;
+    text-align: right;
+    justify-content: space-evenly;
+    align-content: stretch;
+    align-items: baseline;
+    justify-items: end;
+}
+
 .box {
     margin-top: 60px;
     width: 80%;
@@ -143,6 +142,7 @@ text-align: right;
 .hool {
     -webkit-transition-duration: 0.4s;
 }
+
 .hool:hover {
     transition-duration: 1s;
     text-shadow: 0 0 10px red;
