@@ -1,6 +1,6 @@
 /* https://iranset.github.io/ */
 /* $save=( /css/ico-style.css ) */
-/* - ver(0.0.99)*/
+/* - ver(0.0.9)*/
 /* - set-100   */
 table {
     display: grid;
@@ -149,9 +149,10 @@ i.fa.fa-css3.fa-3x {
 }
 
 .ra-g {
-    display: grid;
-    align-items: stretch;
-    justify-content: space-around;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: stretch;
 }
 
 .ra-none {
