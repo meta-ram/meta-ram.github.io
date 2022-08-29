@@ -1,19 +1,18 @@
 /* https://iranset.github.io/ */
 /* $save=( /css/style.min.r.css ) */
-/* - ver(0.0.1)*/
+/* - ver(100000)*/
 /* - set-min   */
 @media only screen and (max-width: 260px) {
 
-    .no-260,
-    #not-260 {
+    .no{
         opacity: 0;
     }
 }
 
 @media only screen and (max-width: 500px) {
-    .body {
-        background: #ffffff;
-        color: #000;
+    .bdy {
+        background: #1b1b1b;
+        color: rgba(60, 255, 0, 0.6);
     }
 
     .header {
@@ -23,7 +22,10 @@
         left: 0;
         background: #000;
     }
-
+    .table-min tr:active {
+        color: #62ff00;
+        box-shadow: 0px 0px 1px #000000;
+    }
 }
 
 html {
@@ -53,7 +55,7 @@ header {
 main {
     text-align: center;
     display: grid;
-    margin: 50px 0 auto;
+    margin: 50px 0 50px 0 ;
     padding: 20px;
     height: 100%;
 }
@@ -80,22 +82,29 @@ h5,
 h5 {
     margin: 0;
 }
-
 a {
-text-decoration: none;
+    text-decoration: none;
 }
-
 /* ------------------------------ */
 .rtl {
     text-align: right;
+    display: flex;
+    justify-items: center;
+    align-items: start;
+    justify-content: flex-end;
+
 }
 
 .left {
     text-align: left;
+    display: flex;
+    justify-items: center;
+    align-items: start;
+    justify-content: flex-end;
 }
 
 .center {
-    display: grid;
+    display: flex;
     justify-items: center;
     align-items: start;
     justify-content: center;
@@ -146,11 +155,34 @@ text-decoration: none;
     -webkit-transition-duration: 0.4s;
 }
 
+.hool-b {
+    webkit-transition-duration: 0.4s;
+    
+}
+
+.hool-b:hover {
+    box-shadow: 0px -1px 10px red;
+}
+
+.hool-t:hover {
+    text-shadow: 0 0 10px red;
+    
+}
+
 .hool:hover {
     transition-duration: 1s;
     text-shadow: 0 0 10px red;
     box-shadow: 0px -1px 10px red;
 }
+
+
+
+
+
+.hool-t:hover {
+    webkit-transition-duration: 0.4s;
+}
+
 
 .tet-soh {
     text-shadow: 0 0 10px red;
@@ -163,23 +195,23 @@ text-decoration: none;
 
 /* ------------------------------ */
 
-.ra-pad-50-all {
+.pad-50-all {
     padding: 50px 50px 50px 50px;
 }
 
-.ra-pad-50-t-b {
+.pad-50-t-b {
     padding: 50px 0 50px 0;
 }
 
-.ra-pad-50-r {
+.pad-50-r {
     padding: 0 50px 0 50px;
 }
 
-.ra-pad-50-l {
+.pad-50-l {
     padding: 0 50px 0 50px;
 }
 
-.ra-pad-50-r-l {
+.pad-50-r-l {
     padding: 0 50px 0 50px;
 }
 
@@ -203,7 +235,7 @@ text-decoration: none;
     border-right: solid 15px red;
     border-radius: 30px 0 0px 30px;
     background: rgb(255 0 0 / 40%);
-    /*display: flex;*/
+    display: flex;
     padding: 0.40em;
     position: relative;
     align-content: center;
