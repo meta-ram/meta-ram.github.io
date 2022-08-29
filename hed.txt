@@ -1,8 +1,12 @@
 <head>
         <!-- ---------------------------------------------------- -->
-        <title>نام صحفه</title>
+        <title>ico-style</title>
         <!-- ---------------------------------------------------- -->
-       
+        <!--ico -->
+        <link rel="stylesheet" href="css/font-awesome.css">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/fontawesome.css">
+        <link rel="stylesheet" href="css/fontawesome.min.css">
         <!-- ---------------------------------------------------- -->
         <link rel="apple-touch-icon" sizes="57x57" href="">
         <link rel="apple-touch-icon" sizes="60x60" href="">
@@ -13,7 +17,7 @@
         <link rel="apple-touch-icon" sizes="144x144" href="">
         <link rel="apple-touch-icon" sizes="152x152" href="">
         <link rel="apple-touch-icon" sizes="180x180" href="">
-        <link rel="icon" type="image/png" sizes="192x192"  href="">
+        <link rel="icon" type="image/png" sizes="192x192" href="">
         <link rel="icon" type="image/png" sizes="32x32" href="">
         <link rel="icon" type="image/png" sizes="32x32" href="">
         <!-- ---------------------------------------------------- -->
@@ -21,29 +25,27 @@
         <meta name="msapplication-TileImage" content="img/ms-icon-144x144.png">
         <meta name="theme-color" content="#9951E1">
         <meta name="msapplication-navbutton-color" content="#000">
-        <meta name='mobile-web-app-capable' content='yes'>
+        <meta name="mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-status-bar-style" content="#000">
-        <meta name="description" content="وب سایت رسمی ایرانست" />
-        <meta property="og:title" content="ico-style" />
-        <meta property="og:description" content="وب سایت رسمی ایرانست" />
-        <meta property="og:image" content="https://durva.ir/assets/durva-logo.png" />
-        <meta property="og:url" content="https://iranset.github.io" />
-        <link rel="canonical" href="https://iranset.github.io" />
-        <meta name="twitter:title" content="ico-style" />
-        <meta name="twitter:description" content="وب سایت رسمی ایرانست" />
-        <meta name="twitter:card" content="summary" />
-        <meta name="twitter:image:alt" content="  ایکون| index " />
-        <meta property="og:site_name" content="https://iranset.github.io" />
-        <meta name="twitter:site" content="@iranset" />
+        <meta name="description" content="وب سایت رسمی ایرانست">
+        <meta property="og:title" content="ico-style">
+        <meta property="og:description" content="وب سایت رسمی ایرانست">
+        <meta property="og:image" content="https://durva.ir/assets/durva-logo.png">
+        <meta property="og:url" content="https://iranset.github.io">
+        <link rel="canonical" href="https://iranset.github.io">
+        <meta name="twitter:title" content="ico-style">
+        <meta name="twitter:description" content="وب سایت رسمی ایرانست">
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:image:alt" content="  ایکون| index ">
+        <meta property="og:site_name" content="https://iranset.github.io">
+        <meta name="twitter:site" content="@iranset">
         <!-- ---------------------------------------------------- -->
         
         
         <!---->
         <link rel="stylesheet" href="css/style.min.r.css">
-        <!-- <link rel="stylesheet" href="css/ico-style.css"> -->
-        <link rel="stylesheet" href="css/fontawesome.css">
-        <link rel="stylesheet" href="css/fontawesome.min.css">
+        <link rel="stylesheet" href="css/ico-style.css">
         <!---->
         
         
