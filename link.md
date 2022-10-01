@@ -1,3 +1,3 @@
 # LINK 
 
-+ [https://apk.support/download-app/com.filtershekanha.argovpn](https://apk.support/download-app/com.filtershekanha.argovpn)
++ [argovpn](https://s25.picofile.com/file/8453585668/argo.zip.html)
