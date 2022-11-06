@@ -1,0 +1,146 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background: #f1f1f1;
+	font-family: Arial,Segoe UI;
+	margin: 0;
+}
+
+.form {
+	background-color: red;
+	width: 300px;
+	height: 44px;
+	border-radius: 5px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.input {
+	all: unset;
+	font: 16px system-ui;
+	color: #fff;
+	height: 100%;
+	width: 100%;
+	padding: 6px 10px;
+}
+
+::placeholder {
+	color: #fff;
+	opacity: 0.7;
+}
+
+svg {
+	color: #fff;
+	fill: currentColor;
+	width: 24px;
+	height: 24px;
+	padding: 10px;
+}
+
+button {
+	all: unset;
+	cursor: pointer;
+	width: 44px;
+	height: 44px;
+}
+header {
+	background-color: #3745c2;
+}
+
+footer {
+	display: flex;
+	position: fixed;
+	width: 100%;
+	bottom: 0;
+	background: #ccc;
+	padding-top: 10px;
+}
+
+
+.p-n-r {
+	margin-top: 30px;
+}
+.text-1 {
+	text-align: center;
+	color: #fff;
+}
+
+.box {
+	display: flex;
+	background-color: #fff;
+	justify-content: center;
+	align-items: center;
+	margin: 10px auto;
+}
+.col-r-1 {
+	display: flex;
+	justify-items: center;
+	direction: center;
+	text-align: center;
+	margin: 10px auto;
+	padding: 30px;
+}
+.col-r-2 {
+	display: flex;
+	justify-items: center;
+	direction: center;
+	text-align: center;
+	margin: 10px auto;
+	padding: 30px;
+}
+.toi > input[type=text] {
+	width: 30%;
+	background-color: #f0f0f0;
+	font-size: 26px;
+	/*box-shadow:
+	10px 10px 15px rgba(209,217,230,1),
+	-10px -10px 15px rgba(255,255,255,1),
+	inset 0 0 15px rgba(209,217,230,1),
+	inset 0 0 15px rgba(255,255,255,1);
+	border-radius: 20px;*/
+	outline: none;
+	cursor: pointer;
+	height: auto;
+	transition: all .3s ease-in-out;
+	text-align: center;
+	border: none;
+}
+
+input[type=button] {
+	margin: 0 30px;
+	padding: 20px;
+	font-size: 34px;
+	background: none;
+	outline: none;
+	cursor: pointer;
+	border: none;
+color: #fff;
+
+}
+.btn {
+	background: #0011DD;
+}
+
+.img {
+	height: 50%;
+	width: 50%;
+
+}
+
+.llp{
+font-size: 24px;
+color: #fff;
+display:flex;
+margin: 30% 30% 0 30%;
+	background: #009900;
+border-radius: 8px;
+padding: 20px;
+justify-content: center;
+}
+
+a {
+text-decoration: none;
+}
