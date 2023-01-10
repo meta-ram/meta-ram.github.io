@@ -1,7 +1,9 @@
 #  [meta-ram.github.io](https://meta-ram.github.io/)
 
+ ![](https://raw.githubusercontent.com/meta-ram/meta-ram.github.io/main/)
  ![](https://raw.githubusercontent.com/meta-ram/meta-ram.github.io/main/svgs/text-ram.svg)
  ![](https://github.com/meta-ram/meta-ram.github.io/raw/main/fils/img/gif/gif-1.gif)
+
 <div aling="center">
 
 <a href="https://github.com/meta-ram/meta-ram.github.io/edit/main/README.md">ویرایش
